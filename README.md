@@ -1,10 +1,9 @@
 ## Olá, fazendo o roadmap fullstack do https://roadmap.sh 👋😁
 
+
+# 🎥 Canal onde compartilho meu aprendizado
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/67ee8440d3017ef47d201a64?variant=dark&roadmaps=full-stack" alt="roadmap.sh"/></a>
-### 🎥 Último vídeo no YouTube
-
 [![Assista no YouTube](https://img.youtube.com/vi/hze41JATdF4/hqdefault.jpg)](https://youtu.be/hze41JATdF4)
-
 [![YouTube](https://img.shields.io/badge/YouTube-Inscreva--se-red?logo=youtube&style=for-the-badge)](https://youtube.com/@seucanal)
 <!--
 **pedropalmarella/pedropalmarella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
