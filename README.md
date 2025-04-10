@@ -1,7 +1,7 @@
 ## Olá, fazendo o roadmap fullstack do https://roadmap.sh 👋😁
 
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/67ee8440d3017ef47d201a64?variant=dark&roadmaps=full-stack" alt="roadmap.sh"/></a>
-[![Meu Canal no YouTube](https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg)](https://youtube.com/watch?v=dQw4w9WgXcQ)
+[![YouTube](https://img.shields.io/badge/YouTube-Assistir-red?logo=youtube&style=for-the-badge)](https://youtu.be/hze41JATdF4)
 
 <!--
 **pedropalmarella/pedropalmarella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
