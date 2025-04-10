@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/67ee8440d3017ef47d201a64?variant=dark&roadmaps=full-stack" alt="roadmap.sh"/></a>
+[![roadmap.sh](https://roadmap.sh/card/tall/67ee8440d3017ef47d201a64?variant=dark&roadmaps=full-stack)](https://roadmap.sh)
 <!--
 **pedropalmarella/pedropalmarella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
