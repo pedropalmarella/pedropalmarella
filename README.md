@@ -2,7 +2,7 @@
 
 
 # 🎥 Canal onde compartilho meu aprendizado
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/67ee8440d3017ef47d201a64?variant=dark&roadmaps=full-stack" alt="roadmap.sh"/></a>
+[![roadmap.sh](https://roadmap.sh/card/tall/67ee8440d3017ef47d201a64?variant=dark)](https://roadmap.sh)
 [![Assista no YouTube](https://img.youtube.com/vi/hze41JATdF4/hqdefault.jpg)](https://youtu.be/hze41JATdF4)
 [![YouTube](https://img.shields.io/badge/YouTube-Inscreva--se-red?logo=youtube&style=for-the-badge)](https://youtube.com/@seucanal)
 <!--
